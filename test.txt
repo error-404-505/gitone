@@ -1,2 +1,2 @@
 This is my first Git project.This is a new one.
-HOW IS THIS ONE.
+HOW IS THIS ONE
